@@ -3,7 +3,7 @@ This is a small video game that I made in 12th class in high school. You can go 
 
 To run the game, download all the .java files into one folder and open the file called main.jave in vs-code (or any other editor, but I not sure they will work properly since I have only run them on vs-code. Then click run and debug to run the game. Use Up, Down, Left, and Right keys on you key board to control the rocket.
 
-You can also watch a video demo of the game on Youtube: https://youtu.be/l9ROdBGInxc
+You can also watch a video demo of the game on Youtube: https://youtu.be/l9ROdBGInxc, on Bilibili: 【Javascript写的太空探索小游戏】 https://www.bilibili.com/video/BV172w9zBEdK/?share_source=copy_web&vd_source=87cce677a05de4e45422c1c19bf1b8e4
 
 
 项目简介：星际航行小游戏
