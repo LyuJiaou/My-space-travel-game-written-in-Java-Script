@@ -1,7 +1,7 @@
 # My-space-travel-game-written-in-Java-Script
 This is a small video game that I made in 12th class in high school. You can go to different celestral bodies like sun, mars and moon in the game. There is a black hole that can bring you to any planet you want to go to. I used the some random generation to simulate the flame at the end of the rocket the crash, when the rocket is to close to a planet and the sunspots. I think the background "stars" is an important element to make it looks more like in outer space and they are also generated randomly. With every press of the key, the backfround stars will be regenerated. That makes it looks like the rocket is moving.
 
-To run the game, download all the .java files into one folder and open the file called main.jave in vs-code (or any other editor, but I not sure they will work properly since I have only run them on vs-code. Then click run and debug to run the game. Use Up, Down, Left, and Right keys on you key board to control the rocket.
+To run the game, download all the .java files into one folder and open the file called SpaceX.jave in vs-code (or any other editor, but I not sure they will work properly since I have only run them on vs-code. Then click run and debug to run the game. Use Up, Down, Left, and Right keys on you key board to control the rocket.
 
 You can also watch a video demo of the game on Youtube: https://youtu.be/l9ROdBGInxc, on Bilibili: 【Javascript写的太空探索小游戏】 https://www.bilibili.com/video/BV172w9zBEdK/?share_source=copy_web&vd_source=87cce677a05de4e45422c1c19bf1b8e4
 
@@ -17,7 +17,7 @@ You can also watch a video demo of the game on Youtube: https://youtu.be/l9ROdBG
 
 1. 环境准备： 请下载所有的 .java 源文件并存放在同一个文件夹中。
 
-2. 启动游戏： 使用 VS Code 打开名为 main.java 的文件（推荐使用 VS Code，因为该项目是在此环境下开发调试的）。
+2. 启动游戏： 使用 VS Code 打开名为 SpaceX.java 的文件（推荐使用 VS Code，因为该项目是在此环境下开发调试的）。
 
 3. 运行项目： 点击“运行与调试 (Run and Debug)”即可启动游戏。
 
